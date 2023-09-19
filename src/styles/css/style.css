@@ -1,0 +1,264 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap");
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+header {
+  padding: 20px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.left-side {
+  display: flex;
+}
+
+.system {
+  margin: 15px 0px;
+  font-family: Roboto, sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 11px;
+  display: flex;
+}
+
+.system a {
+  margin-right: 20px;
+}
+
+.Download {
+  margin-left: 20px;
+  text-decoration: none;
+  border: 0;
+  background: transparent;
+  width: 139px;
+  height: 44px;
+  background: #F5F6F9;
+  border-radius: 8px;
+}
+
+.simplify-section {
+  text-align: center;
+}
+
+.simplify-title {
+  font-family: Roboto;
+  font-size: 70px;
+  font-weight: 400;
+  line-height: 78px;
+  letter-spacing: 3.1199998856px;
+  text-align: center;
+  margin-top: 200px;
+}
+
+.apple-download {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.simplify-image {
+  width: 100%;
+  max-width: 1440px;
+}
+
+.cards {
+  display: flex;
+}
+
+.card {
+  height: 234px;
+  width: 409px;
+  margin: 0px 100px;
+  margin-top: 100px;
+  border-left: 2px #EDEEF3 solid;
+}
+
+.logo {
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.text-card {
+  width: 189px;
+  height: 75px;
+  display: block;
+  margin-left: 30px;
+  margin-top: 30px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 37px;
+  letter-spacing: 0em;
+}
+
+.desing-section {
+  margin-top: 300px;
+  text-align: center;
+}
+
+.title {
+  font-family: Roboto;
+  font-size: 33px;
+  font-weight: 400;
+  line-height: 53px;
+  letter-spacing: 1.5599999428px;
+  text-align: center;
+}
+
+.subtitle {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0em;
+  margin: 0 auto;
+  width: 60%;
+  color: #6E6D7A;
+  text-align: center;
+}
+
+.phones2 {
+  margin-top: 60px;
+}
+
+.effortless-section {
+  margin-top: 300px;
+}
+
+.one-step-section {
+  margin-top: 300px;
+}
+
+.private-data-section {
+  margin-top: 300px;
+}
+
+.photos-prvdt {
+  margin-top: 100px;
+}
+
+.other-thinks-section {
+  margin-top: 300px;
+}
+
+.cards-section-title {
+  font-family: Roboto;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 53px;
+  letter-spacing: 1.5599999428px;
+  text-align: center;
+}
+
+.cards-oth-thk {
+  margin-top: 50px;
+  display: flex;
+}
+
+.cards-oth-thk2 {
+  display: flex;
+  margin-top: 50px;
+}
+
+.card-oth {
+  height: 234px;
+  width: 409px;
+  margin: 0px 100px;
+  border-left: 2px #EDEEF3 solid;
+}
+
+.card-title {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left: 30px;
+}
+
+.card-button-text {
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 12px;
+  letter-spacing: 2.3399999142px;
+  text-align: center;
+  width: 258px;
+  height: 60px;
+  border-radius: 8px;
+  border: 1px #EDEEF3 solid;
+  background: white;
+}
+
+.card-button {
+  margin-top: 150px;
+  display: flex;
+  justify-content: center;
+}
+
+.build-section {
+  margin-top: 300px;
+}
+
+.apple-download {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.tab-apple {
+  margin: 0px 95px;
+  margin-top: 100px;
+}
+
+.footer-section {
+  border-top: 2px #EDEEF3 solid;
+  margin-bottom: 95px;
+  display: flex;
+  justify-content: center;
+}
+
+.footers {
+  margin-top: 95px;
+  display: flex;
+}
+
+.footer-text {
+  width: 247px;
+  height: 234px;
+}
+.footer-text a {
+  margin-top: 35px;
+}
+
+.text {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 0em;
+  text-align: left;
+  display: flex;
+  color: #6E6D7A;
+}
+
+.footer-information {
+  width: 371px;
+  height: 234px;
+  margin-left: 95px;
+}
+.footer-information a {
+  margin-top: 10px;
+}
+
+.info {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: start;
+}
